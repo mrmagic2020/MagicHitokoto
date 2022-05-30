@@ -1,0 +1,2 @@
+# MagicHitokoto
+hotokoto api connection
